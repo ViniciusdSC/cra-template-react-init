@@ -1,0 +1,17 @@
+{
+  "name": "cra-template-react-init",
+  "version": "1.0.0",
+  "description": "React template",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius de Souza Cardoso",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-root-import": "^6.5.0",
+    "customize-cra": "^0.9.1",
+    "eslint": "^6.8.0",
+    "react-app-rewired": "^2.1.5"
+  }
+}
